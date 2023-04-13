@@ -1,4 +1,4 @@
-Contains model and data projects that may point out the future direction of natural language processing industries and researches.
+Collects model and data projects for instruction following large language models. These works may point out the future direction of natural language processing industry and research.
 
 ✕ means "not available"
 
