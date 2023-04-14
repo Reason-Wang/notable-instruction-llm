@@ -9,6 +9,7 @@ Collects model and data projects for instruction following large language models
 | [stanford alpaca](https://github.com/tatsu-lab/stanford_alpaca) | llama               | alpaca               | apache 2.0 | Data is generated with `text-davinci-003`.                   |
 | [AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned) | /                   | alpaca cleaned       | apache 2.0 | A cleaned and curated version of the Alpaca dataset.         |
 | [ChatGLM](https://github.com/THUDM/ChatGLM-6B)               | GLM                 | ✕                    | apache 2.0 | A bilingual language model based on GLM framework.           |
+| [flan-alpaca](https://github.com/declare-lab/flan-alpaca)    | Flan-T5             | alpaca               | apache 2.0 | Extend Standford Alpaca synthetic instruction tuning to Flan-T5. |
 | [Dolly](https://github.com/databrickslabs/dolly)             | pythia              | databricks-dolly-15k | mit        | An instruction-following large language model trained on the Databricks machine learning platform that is licensed for commercial use. |
 | [Vicuna](https://github.com/lm-sys/FastChat)                 | llama               | ShareGPT filtered, ✕ | apache 2.0 | User-shared conversations gathered from ShareGPT.com. Low-quality samples are filtered. |
 | [ShareGPT unfiltered](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) | /                   | ShareGPT unfiltered  | apache 2.0 | Conversations gathered from ShareGPT.com without filtering.  |
